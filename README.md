@@ -16,7 +16,7 @@ React Router for navigation
 Axios for API requests
 Tailwind CSS for styling
 
-Live Link:https://employ-wise-swart.vercel.app/login
+Live Link:https://employ-wise-swart.vercel.app/
 
 Installation and Setup
 
